@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"content",
+				"content-wrap"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"Salesf",
+				"Salesforce"
+			],
+			[
 				"font",
 				"font-weight"
 			],
@@ -32,10 +44,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "package",
+		"height": 368.0,
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
 			[
 				"package",
 				"Package Control: Install Package"
@@ -43,10 +63,6 @@
 			[
 				"package control: install",
 				"Package Control: Install Package"
-			],
-			[
-				"color",
-				"Colorsublime: Install Theme"
 			],
 			[
 				"clor",
@@ -63,10 +79,6 @@
 			[
 				"Color",
 				"Colorsublime: Install Theme"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"col",
@@ -93,7 +105,7 @@
 				"Indentation: Reindent Lines"
 			]
 		],
-		"width": 392.0
+		"width": 489.0
 	},
 	"console":
 	{
@@ -123,22 +135,49 @@
 	},
 	"file_history":
 	[
-		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/index.html",
-		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/government.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNPort/wp-content/themes/ubnsoftsolutions/index.php",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/style.css",
 		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/contact.html",
-		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/js/plugins.js",
-		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/infrastructure.html",
-		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/dedicatedcoc.html",
-		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/development.html",
-		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/engagement.html",
-		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/global.html",
-		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/casestudy.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/index.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/oldcss.css",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/ubnadvantage.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/travel.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/testhome.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/techstack.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/search.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/salesforcecoe.html",
 		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/retail.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/profile.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/producteng.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/opensourcecoe.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/mobilecoe.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/microsoftcoe.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/media.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/javacoe.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/infrastructure.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/healthcare.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/government.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/global.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/enterprisemob.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/enterpriseadm.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/engineering.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/engagement.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/development.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/dedicatedcoc.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/datawarehouse.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/crmsolutions.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/corporatesocial.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/casestudy.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/businessint.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/banking.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/aboutus.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/.#corporatesocial.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/js/jquery.vmap.js",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/js/events-data.js",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/js/plugins.js",
 		"/Users/webdesign/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/webdesign/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/style.css",
 		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/Sublime-Workstation/ubnsoft.sublime-workspace",
-		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/enterpriseadm.html",
 		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Misc/GitHub/Respositories/Quote Machine/FCCQuoteMachine-Drazy_Style.css",
 		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Misc/GitHub/Respositories/Quote Machine/FCCQuoteMachine-Drazy.html",
 		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Misc/GitHub/Respositories/Quote Machine/FCCQuoteMachine-Drazy_JS.js",
@@ -192,6 +231,34 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"sidebarblack",
+			"sidebar",
+			".nlb",
+			"true value investment",
+			"competitor",
+			"Envato",
+			".testi-image",
+			".testi-content",
+			"Salesforce",
+			"MVC_Net",
+			"portfolio-item",
+			"portfolio-full",
+			"portfolio-image",
+			"#portfolio",
+			"portfolio",
+			"portfoliuo",
+			"#portfolio",
+			"aspnet",
+			"#portfolio",
+			".postcontent",
+			"grid-container",
+			"#portfolio",
+			".portfolio",
+			"portfolio-item",
+			"pf-media",
+			"pf-ui",
+			".pf-ui",
+			"CASE STUDY",
 			"9ddb4a",
 			"listlarge",
 			"CAPCHA",
@@ -271,7 +338,7 @@
 		"cols":
 		[
 			0.0,
-			0.5,
+			0.50796460177,
 			1.0
 		],
 		"rows":
@@ -284,6 +351,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 122.0
 	},
 	"pinned_build_system": "",
 	"replace":

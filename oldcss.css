@@ -128,7 +128,7 @@ dl, dt, dd, ol, ul, li {
 
 body {
 	line-height: 1.5;
-	color: #fff;
+	color: #252525;
 	font-family: 'Lato', sans-serif;
 }
 
@@ -12583,7 +12583,7 @@ body:not(.device-touch) .tagcloud a {
 }
 
 .clientsrow {
-	padding: 40px 0 40px 0;
+	padding: 100px 0 100px 0;
 }
 
 .girlcomputer img {
