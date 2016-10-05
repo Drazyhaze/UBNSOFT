@@ -138,7 +138,7 @@ li {
 
 body {
     line-height: 1.5;
-    color: #fff;
+    
     font-family: 'Lato', sans-serif;
 }
 
@@ -1511,8 +1511,8 @@ body.stretched #header.full-header .container {
 }
 
 #primary-menu ul li:hover > a,
-#primary-menu ul li.current > a {
-    color: #8dc641;
+#primary-menu ul li#current > a {
+    color: #50c9d4;
 }
 
 #primary-menu > ul > li.sub-menu > a > div {}
@@ -16443,7 +16443,7 @@ a.listlarge:hover {
 .rowprop {
     font-weight: 400;
     font-size: 14px
-    color: #d4d4d4;
+    color: #838689;
 }
 
 .listbold {
@@ -16627,6 +16627,7 @@ a.header-top-link:active {
 
 .compspan {
     font-size: 18px;
+    color: #fff;
 }
 
 .competitor p {
@@ -16719,4 +16720,9 @@ a.nlbs:hover {
     vertical-align: middle;
     text-align: center;
     margin: 60px 0 0 0;
+}
+
+/* ICON COLORS */
+.iconwhite {
+    color: white;
 }
